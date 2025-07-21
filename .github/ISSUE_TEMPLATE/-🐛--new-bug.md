@@ -2,7 +2,7 @@
 name: "[\U0001F41B] New Bug"
 about: Create a report to help us improve
 title: "[\U0001F41B] New Bug Reported"
-labels: "[\U0001F41B] Bug"
+labels: "[\U0001F41B] Bug, Roadmap interest"
 assignees: ''
 
 ---

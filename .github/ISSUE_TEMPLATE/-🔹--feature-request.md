@@ -2,7 +2,7 @@
 name: "[\U0001F539] Feature request"
 about: Suggest an idea for this project
 title: "[\U0001F539] New QoL / Feature"
-labels: QoL // Feature
+labels: QoL // Feature, Roadmap interest
 assignees: ''
 
 ---

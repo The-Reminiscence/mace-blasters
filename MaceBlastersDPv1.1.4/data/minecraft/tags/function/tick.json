@@ -1,0 +1,9 @@
+{
+    "values": [
+		"mace-blasters:lobby-mace/utils/credits",
+		"mace-blasters:lobby-mace/utils/join-spectator",
+		"mace-blasters:lobby-mace/utils/join-teams",
+		"mace-blasters:lobby-mace/utils/lobbymg",
+		"mace-blasters:core/main"
+    ]
+}

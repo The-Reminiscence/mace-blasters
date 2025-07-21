@@ -1,0 +1,27 @@
+ES:
+¡Hola! Shiro al habla. Veo que has querido cotillear qué cosas había por aquí. Ya que vas a echar un vistazo a todo el código que he hecho quiero decirte que, si eres alguien
+inexperto vas a decir "uhhh vale" y vas a seguir con tu vida, si eres alguien que sabe mucho de comandos y mapmaking, por favor no me asesines, ten piedad xD. Este es el primer
+proyecto de Mapmaking que hago y la primera vez que me involucro con comandos y datapacks tan de lleno, así que... he hecho lo que he podido. He comentado todo lo que he podido
+e intentado explicar todo lo mejor que he podido, espero que disfrutes al menos echando un vistazo a como me he comido la cabeza intentando hacer las cosas. Yo he hecho casi todo
+y mi compañero de equipo, Secreto_Angel, que si sabe bastante de comandos y datapacks y estas cosas me ha ayudado con las bases del core gameplay, es decir que el minijuego.. funcione.
+
+Si quieres dejarme alguna recomendación, aviso, mejora o etc. puedes mandarnos un correo a The Reminiscence, disfruta!  Email: thereminiscence.contact@gmail.com
+P.D: Los comentarios están dispuestos de tal forma que es # Español // Inglés.
+Comentarios muy largos quizás se dispongan en distintas lineas de tal forma:
+# Español
+# Inglés
+
+
+EN:
+Hello! Shiro speaking. I see you've been wanting to gossip what stuff was around here. Since you're going to take a look at all the code I've done I want to tell you that, if you're someone
+inexperienced you're going to say "uhhh ok" and go on with your life, if you're someone who knows a lot about commands and mapmaking, please don't murder me, have mercy xD. This is the first
+mapmaking project I've done and the first time I've been involved with commands and datapacks so fully, so... I've done what I could. I've commented as much as I could
+and tried to explain as much as I could, I hope you enjoy at least taking a look at how I've been eating my head off trying to get things done. I have done almost everything
+and my teammate, Secreto_Angel, who knows a lot about commands and datapacks and these things has helped me with the basics of core gameplay, that is to say that the minigame... works.
+
+If you want to leave me any recommendation, advice, improvement or etc. you can send us an email to The Reminiscence, enjoy!  Email: thereminiscence.contact@gmail.com
+
+Note: The comments are arranged in such a way that it is # Spanish // English,
+Very long comments may be arranged in different lines as follows:
+#Spanish
+#English

@@ -1,4 +1,4 @@
-# ¡Mace Blasters! ¿In GithHub?
+# ¡Mace Blasters! ¿In GitHub?
 
 This GitHub repository for The Reminiscence has been created to make it easier to receive bug reports, feature requests, and QoL requests. It also allows users who access Mace Blasters through CurseForge to download the resource pack directly.
 
